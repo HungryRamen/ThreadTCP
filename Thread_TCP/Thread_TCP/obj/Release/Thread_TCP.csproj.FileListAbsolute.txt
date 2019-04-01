@@ -1,0 +1,6 @@
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\bin\Release\Thread_TCP.exe.config
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\bin\Release\Thread_TCP.exe
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\bin\Release\Thread_TCP.pdb
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Release\Thread_TCP.csproj.CoreCompileInputs.cache
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Release\Thread_TCP.exe
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Release\Thread_TCP.pdb

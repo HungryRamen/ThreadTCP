@@ -1,0 +1,6 @@
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\TcpClient\obj\Debug\TcpClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\bin\Debug\Thread_TCP.exe.config
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\bin\Debug\Thread_TCP.exe
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\bin\Debug\Thread_TCP.pdb
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Debug\Thread_TCP.csprojAssemblyReference.cache
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Debug\Thread_TCP.csproj.CoreCompileInputs.cache
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Debug\Thread_TCP.exe
+C:\Users\matiy\Desktop\2019소스\CS\Thread_TCP\Thread_TCP\obj\Debug\Thread_TCP.pdb
